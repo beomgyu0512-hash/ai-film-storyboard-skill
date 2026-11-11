@@ -1,0 +1,4 @@
+interface:
+  display_name: "短剧导演分镜"
+  short_description: "按叙事、导演、分镜三层处理跨题材情节文件并执行检查与反馈"
+  default_prompt: "使用短剧导演分镜处理我的情节文件，按三层流程输出并执行检查。"

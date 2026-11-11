@@ -1,0 +1,674 @@
+{
+  "repository": "62656456/ai-film-skills",
+  "commit": "5fda5740853969c3dcb690b5b386dd1acc4c5f02",
+  "unchanged": true,
+  "packages": [
+    "ai-short-drama-production",
+    "ai-storyboard-director",
+    "character-asset",
+    "cyberpunk-design",
+    "director-agent",
+    "epic-design",
+    "fantasy-design",
+    "horror-design",
+    "noir-design",
+    "produce-ai-video",
+    "prop-asset",
+    "romance-design",
+    "scene-asset",
+    "war-design",
+    "wuxia-design"
+  ],
+  "files": [
+    {
+      "path": "COMMERCIAL_USE.md",
+      "sha256": "ad32c488f79eafc46fc86c1fbe17f5c673c4fbc3af1e56a06b4da017488262d6",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/COMMERCIAL_USE.md"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/LICENSE"
+    },
+    {
+      "path": "SKILL_CATALOG.md",
+      "sha256": "38eaf8d6bee503f5aa3d4dfad6c371e4b6e135a478d02ba69ce962f7cc306488",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/SKILL_CATALOG.md"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "d7ec9d1008dee9f8aebba3ab91389f895d66e061393f39063c88db09caca0d4b",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "path": "skills/ai-short-drama-production/SKILL.md",
+      "sha256": "e7f96f45fecf5b2a69bf0d9a4ba0584a3dc40b339c0222828267c58927aadc00",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-short-drama-production/SKILL.md"
+    },
+    {
+      "path": "skills/ai-short-drama-production/agents/openai.yaml",
+      "sha256": "17ca325ec1c223ec612dde3ab17d85c07854707d2b1b843dc224e3f2c79be686",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-short-drama-production/agents/openai.yaml"
+    },
+    {
+      "path": "skills/ai-short-drama-production/references/SOURCE-LEDGER.md",
+      "sha256": "8ec37bf31991c54a93527492d401731cdfdbed0543120cf90f779939c27a9396",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-short-drama-production/references/SOURCE-LEDGER.md"
+    },
+    {
+      "path": "skills/ai-short-drama-production/references/control-contracts.md",
+      "sha256": "b2d927298d5b266e0c08ab75466dc0c5b49fce1f38898af10abe4443fb1e8f89",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-short-drama-production/references/control-contracts.md"
+    },
+    {
+      "path": "skills/ai-short-drama-production/references/independent-production-core.md",
+      "sha256": "9f2c3e37d499d31a0abe429d49b1cd8ff9e029278a187c1c2fcd9370065b89a2",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-short-drama-production/references/independent-production-core.md"
+    },
+    {
+      "path": "skills/ai-short-drama-production/references/production-handoff.md",
+      "sha256": "133bf9136f86e579822f4683cccb0492ca6adbf1f5047fe5d09c286c2819f319",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-short-drama-production/references/production-handoff.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/LICENSE",
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/LICENSE"
+    },
+    {
+      "path": "skills/ai-storyboard-director/SKILL.md",
+      "sha256": "1dc63450517a16c458859cbfed2958763891dafc92222b41307c8feb003161b5",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/SKILL.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/agents/openai.yaml",
+      "sha256": "b37d2cfd6d6f81e0a0c4a0318a139cf00c11aa7f5bb78c1479d0a221d62723c0",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/agents/openai.yaml"
+    },
+    {
+      "path": "skills/ai-storyboard-director/assets/fcml-motion-library.json",
+      "sha256": "f6eac20883f96b22bdfa3cf1f633a473269b4bc06624a01a778e95cfe9c7e3e8",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/assets/fcml-motion-library.json"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/camera-motion-diagnostics.md",
+      "sha256": "7a38de7eedd394e27130593cef2c791c7590c3871b04d71dc44732833d6fc91f",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/camera-motion-diagnostics.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/cinematography-design-engine.md",
+      "sha256": "895ec112db09b189e9aafe1e6d107567cb04a51338d665fad9163a1f0728c124",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/cinematography-design-engine.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/color-and-image-formation.md",
+      "sha256": "c71496891d303b8e60ee340dfd8ffed7b4455650e159a48a81253ac3056dec2e",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/color-and-image-formation.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/creative-shot-ideas.md",
+      "sha256": "fcf17e77cf7fa984391d1bf702d7a0c1f8457ee99693bf075f7e1587564a4f29",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/creative-shot-ideas.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/delivery-mode-guard.md",
+      "sha256": "f9b07c27975645c84695427fb642a5382c80c0ea303402013f496fea90650565",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/delivery-mode-guard.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/design-memory-protocol.md",
+      "sha256": "8d586fff6e69b4f213f8aba749a70078272e03dbacee88115cf4334b5bfaf2f6",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/design-memory-protocol.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/fcml-motion-index.md",
+      "sha256": "a8b1600db705f8936c7ac384cfd59420286718512896db6e94c1bb242d27acb4",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/fcml-motion-index.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/fight-design.md",
+      "sha256": "27992710336ebfcf5519941af71c73b2a5192359101df93caabb95306dd70bac",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/fight-design.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/fight-reference-case.md",
+      "sha256": "04f4bc1e7e069ad8bdc72c402f349f5bbf0b4ec33e304ae741f2fb25ac745ce0",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/fight-reference-case.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/framing-and-axis.md",
+      "sha256": "ed232ae3c1cef514229cc0b543588ee01d85669bf68ec6d190712dda63f3fe80",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/framing-and-axis.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/optical-shot-selection.md",
+      "sha256": "dbbc50d0f657d411f008c071449698aef762f0c3da48da3fe9cc58cdb97e856d",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/optical-shot-selection.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/production-contract.md",
+      "sha256": "bd8ab5535cf9b78e916d2479269b63a6513117da26fa4d3f6d325c88313864a7",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/production-contract.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/project-visual-style.md",
+      "sha256": "b266c0b74276e6573364ad3353996a7774bcf7ad6feeae65ab0731c2e635a1fc",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/project-visual-style.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/reference-design-and-handoff.md",
+      "sha256": "e13934a6e3b0c90af6c64e7890c252465105f93482b12117f7f8473e996a62b3",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/reference-design-and-handoff.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/references/shot-design-engine.md",
+      "sha256": "acf16296dd9a6adf249eb7bf3e9aa629cbfcf38535201156b8e3e6ada289f1fe",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/references/shot-design-engine.md"
+    },
+    {
+      "path": "skills/ai-storyboard-director/scripts/design_memory.py",
+      "sha256": "ab0ef8f5b89fb91ce0792214c1d15b6d27f976a432aa86f4f5421f68e6dd6be3",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/scripts/design_memory.py"
+    },
+    {
+      "path": "skills/ai-storyboard-director/scripts/fcml_motion.py",
+      "sha256": "9db5b226337d3d5228dafba4b1ddb3e2b2160175f53eb2685187dbe49cd4073f",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/scripts/fcml_motion.py"
+    },
+    {
+      "path": "skills/ai-storyboard-director/scripts/fcml_source_audit.py",
+      "sha256": "168b636036a8b55f41e49657e0739dcaf56534b55fa7daa039258565ef9d514b",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/ai-storyboard-director/scripts/fcml_source_audit.py"
+    },
+    {
+      "path": "skills/character-asset/SKILL.md",
+      "sha256": "d85791ded2d99b53aaa313423747d84c76166d4387e6ab67083100ddfdbd76b2",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/character-asset/SKILL.md"
+    },
+    {
+      "path": "skills/character-asset/agents/openai.yaml",
+      "sha256": "a7e8d276f3c726dac65f4e8afa535e5213effee2c820c76d03130da0510a9600",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/character-asset/agents/openai.yaml"
+    },
+    {
+      "path": "skills/character-asset/references/NEGATIVE-CASE-BOOK.md",
+      "sha256": "ec9ab1a23d45ce5592fbc30fcc458a794c2698e555a74ab58144d6bc9141bf67",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/character-asset/references/NEGATIVE-CASE-BOOK.md"
+    },
+    {
+      "path": "skills/character-asset/references/cinematic-image-direction.md",
+      "sha256": "7ff539ccf286fdfc90c3b6edc1785ae80ece779747941d1f8fb101886efbf1ce",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/character-asset/references/cinematic-image-direction.md"
+    },
+    {
+      "path": "skills/character-asset/references/female-character-charm.md",
+      "sha256": "a56b89e846fd90e799f33c0d6daea3f77a66562b4eb7e285ea7b305752aa4836",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/character-asset/references/female-character-charm.md"
+    },
+    {
+      "path": "skills/cyberpunk-design/SKILL.md",
+      "sha256": "202c57f7403ec950cc5fb6c9f551d77063ebd50e31f273769c899e75bc3031e1",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/cyberpunk-design/SKILL.md"
+    },
+    {
+      "path": "skills/cyberpunk-design/agents/openai.yaml",
+      "sha256": "8ac554e56378019c5e6bdd8a9b6804d6863e4c9ba582fcc92dea064e5db52350",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/cyberpunk-design/agents/openai.yaml"
+    },
+    {
+      "path": "skills/cyberpunk-design/references/COMMON-12-SECTION-PROTOCOL.md",
+      "sha256": "8e1f7f9f67a790cde87d951a9251d7d704297c4bb2035b0ed724d69efc95c04b",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/cyberpunk-design/references/COMMON-12-SECTION-PROTOCOL.md"
+    },
+    {
+      "path": "skills/cyberpunk-design/references/NEGATIVE-CASE-BOOK.md",
+      "sha256": "ea9819faae63dcb6aff5ae083c2d467a800834816ea7e00ac9b92e2e2d244b61",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/cyberpunk-design/references/NEGATIVE-CASE-BOOK.md"
+    },
+    {
+      "path": "skills/cyberpunk-design/references/SOURCE-LEDGER.md",
+      "sha256": "d0dd20b3c8e7ea8bb26f970520cd3b97f96c3e4d263dce4e125b0c5e62e6bdc7",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/cyberpunk-design/references/SOURCE-LEDGER.md"
+    },
+    {
+      "path": "skills/cyberpunk-design/references/cinematic-image-direction.md",
+      "sha256": "80e69ebc39a16f3ad0fa1a45465b7c4486daacbdb1c168377c069411db2bf02e",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/cyberpunk-design/references/cinematic-image-direction.md"
+    },
+    {
+      "path": "skills/cyberpunk-design/references/genre-presets.md",
+      "sha256": "bfa2b06e03571f2c5bb262884fe96a145228107646c62f700293b0da08e0495f",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/cyberpunk-design/references/genre-presets.md"
+    },
+    {
+      "path": "skills/director-agent/LICENSE",
+      "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/LICENSE"
+    },
+    {
+      "path": "skills/director-agent/SKILL.md",
+      "sha256": "afebed4a56baf1e41f08c1a020cab876eea48985723336193ca725c00e8b49f3",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/SKILL.md"
+    },
+    {
+      "path": "skills/director-agent/agents/openai.yaml",
+      "sha256": "e6956681141cef7d251eb5399876e025728955c8b67a36545229fd817e1a8033",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/agents/openai.yaml"
+    },
+    {
+      "path": "skills/director-agent/references/anti-laziness-contract.md",
+      "sha256": "14c549b200d036f2f5bcb44b49f1706f327a1ad54030d50e64f56f4381d010da",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/references/anti-laziness-contract.md"
+    },
+    {
+      "path": "skills/director-agent/references/director-thinking-spine.md",
+      "sha256": "72fac39b42a3fdbd34dfa30856d2d0835f73daa6c03e5a5e1d05182b97d8a8d6",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/references/director-thinking-spine.md"
+    },
+    {
+      "path": "skills/director-agent/references/director-workbench-protocol.md",
+      "sha256": "5a4c8c481d54a4e8d5aef084153c07daeeef6a8ca31cca8d77c692f6d7072f14",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/references/director-workbench-protocol.md"
+    },
+    {
+      "path": "skills/director-agent/references/github-project-watchlist.md",
+      "sha256": "220f37a2caba945f2450f2b4e3cf857ad281e9f3533f6739209aec83d72b8c3e",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/references/github-project-watchlist.md"
+    },
+    {
+      "path": "skills/director-agent/references/local-knowledge-map.md",
+      "sha256": "8b2398dfc1f2a0ec0287641fbd0b551780a6044ad03f42be6fa02514006b145f",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/references/local-knowledge-map.md"
+    },
+    {
+      "path": "skills/director-agent/references/production-storyboard-compiler.md",
+      "sha256": "90097e0f6d2b40f1975e5711c59c2cadac3da7224608a7195efc75d614da41a0",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/references/production-storyboard-compiler.md"
+    },
+    {
+      "path": "skills/director-agent/references/research-update-protocol.md",
+      "sha256": "2c77e05d880886122c8ea5f5987c3bc94d82d64076a4b75310e2436db9e2e4c7",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/references/research-update-protocol.md"
+    },
+    {
+      "path": "skills/director-agent/references/screenplay-ai-execution-compiler.md",
+      "sha256": "633059e1366c0e815732f42bc3069d951c4310ee7e2716f8cdad24a53a6e69a5",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/references/screenplay-ai-execution-compiler.md"
+    },
+    {
+      "path": "skills/director-agent/references/screenplay-cold-read-protocol.md",
+      "sha256": "db7c432d04c935de73658df9381f92824dc9a489f08d7ce79d7981e3367d2f0c",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/references/screenplay-cold-read-protocol.md"
+    },
+    {
+      "path": "skills/director-agent/references/screenplay-exemplar-benchmarks.md",
+      "sha256": "55186c00e144bd1c8bdb1aaf147b966ddf06512e443b82b8ba2d8cbd55795d26",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/references/screenplay-exemplar-benchmarks.md"
+    },
+    {
+      "path": "skills/director-agent/references/screenplay-state-engine.md",
+      "sha256": "8ffa836f096e866a7652c71d8019d667b355b76a42e47f1a54ed5a2e44225332",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/references/screenplay-state-engine.md"
+    },
+    {
+      "path": "skills/director-agent/references/screenplay-writing-core.md",
+      "sha256": "9f59bc2c30d02cbaa85affe6a75c3cc0c764dc4c0e8c9f37ebd66f983d4080d1",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/references/screenplay-writing-core.md"
+    },
+    {
+      "path": "skills/director-agent/references/verified-director-logic.md",
+      "sha256": "b3802ec041ec5fb18cfcef575fcb7efb2a20a656defd74c4b72722df4e43da90",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/director-agent/references/verified-director-logic.md"
+    },
+    {
+      "path": "skills/epic-design/SKILL.md",
+      "sha256": "b73ddd4b29a56f8e53fa449ab3a00cfc4dfe2d211dca5886be8a93dbb26c3ea2",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/epic-design/SKILL.md"
+    },
+    {
+      "path": "skills/epic-design/agents/openai.yaml",
+      "sha256": "008a74f8bd15368034bb9deb8a10f627666b5b30587df701bca9490136df0c12",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/epic-design/agents/openai.yaml"
+    },
+    {
+      "path": "skills/epic-design/references/COMMON-12-SECTION-PROTOCOL.md",
+      "sha256": "8e1f7f9f67a790cde87d951a9251d7d704297c4bb2035b0ed724d69efc95c04b",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/epic-design/references/COMMON-12-SECTION-PROTOCOL.md"
+    },
+    {
+      "path": "skills/epic-design/references/NEGATIVE-CASE-BOOK.md",
+      "sha256": "ea9819faae63dcb6aff5ae083c2d467a800834816ea7e00ac9b92e2e2d244b61",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/epic-design/references/NEGATIVE-CASE-BOOK.md"
+    },
+    {
+      "path": "skills/epic-design/references/SOURCE-LEDGER.md",
+      "sha256": "a3da489edbeb5648d63450c434712b2158ec44254df58dcaff12994420bf915f",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/epic-design/references/SOURCE-LEDGER.md"
+    },
+    {
+      "path": "skills/epic-design/references/cinematic-image-direction.md",
+      "sha256": "80e69ebc39a16f3ad0fa1a45465b7c4486daacbdb1c168377c069411db2bf02e",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/epic-design/references/cinematic-image-direction.md"
+    },
+    {
+      "path": "skills/epic-design/references/genre-presets.md",
+      "sha256": "f34f1c3da561933ffdd0f772f027904e0648cfcfc4b834e912cfb09248ead8f7",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/epic-design/references/genre-presets.md"
+    },
+    {
+      "path": "skills/fantasy-design/SKILL.md",
+      "sha256": "4ff9920443c5409b837023b0dc58503386d7003498e2284218397c95fecf72d3",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/fantasy-design/SKILL.md"
+    },
+    {
+      "path": "skills/fantasy-design/agents/openai.yaml",
+      "sha256": "2be75e7795c4911e8243df0729f1d9c0af7539630e93cbbd7113cd912efc6ff6",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/fantasy-design/agents/openai.yaml"
+    },
+    {
+      "path": "skills/fantasy-design/references/COMMON-12-SECTION-PROTOCOL.md",
+      "sha256": "8e1f7f9f67a790cde87d951a9251d7d704297c4bb2035b0ed724d69efc95c04b",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/fantasy-design/references/COMMON-12-SECTION-PROTOCOL.md"
+    },
+    {
+      "path": "skills/fantasy-design/references/NEGATIVE-CASE-BOOK.md",
+      "sha256": "ea9819faae63dcb6aff5ae083c2d467a800834816ea7e00ac9b92e2e2d244b61",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/fantasy-design/references/NEGATIVE-CASE-BOOK.md"
+    },
+    {
+      "path": "skills/fantasy-design/references/SOURCE-LEDGER.md",
+      "sha256": "2d8ad466e3ad58d64cc4ca5a87c9e838541014ff6779e4da8ee53741d8f4e737",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/fantasy-design/references/SOURCE-LEDGER.md"
+    },
+    {
+      "path": "skills/fantasy-design/references/cinematic-image-direction.md",
+      "sha256": "80e69ebc39a16f3ad0fa1a45465b7c4486daacbdb1c168377c069411db2bf02e",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/fantasy-design/references/cinematic-image-direction.md"
+    },
+    {
+      "path": "skills/fantasy-design/references/genre-presets.md",
+      "sha256": "d6a9c71740307a82200d11cbe55315022171122b4e49755a52300b467168a421",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/fantasy-design/references/genre-presets.md"
+    },
+    {
+      "path": "skills/horror-design/SKILL.md",
+      "sha256": "959a31111d366fc040b00c19f5c62397c28beecdd9d47859a07599faf96a8c52",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/horror-design/SKILL.md"
+    },
+    {
+      "path": "skills/horror-design/agents/openai.yaml",
+      "sha256": "782cba2e767afba2fe5a28f26e2e215787877890717c7099f1bca5fa864219cf",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/horror-design/agents/openai.yaml"
+    },
+    {
+      "path": "skills/horror-design/references/COMMON-12-SECTION-PROTOCOL.md",
+      "sha256": "8e1f7f9f67a790cde87d951a9251d7d704297c4bb2035b0ed724d69efc95c04b",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/horror-design/references/COMMON-12-SECTION-PROTOCOL.md"
+    },
+    {
+      "path": "skills/horror-design/references/NEGATIVE-CASE-BOOK.md",
+      "sha256": "ea9819faae63dcb6aff5ae083c2d467a800834816ea7e00ac9b92e2e2d244b61",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/horror-design/references/NEGATIVE-CASE-BOOK.md"
+    },
+    {
+      "path": "skills/horror-design/references/SOURCE-LEDGER.md",
+      "sha256": "1d49f247193c8ce9fce88125d71b8e10d21255ae0faee4fe1887eba1066a1b7c",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/horror-design/references/SOURCE-LEDGER.md"
+    },
+    {
+      "path": "skills/horror-design/references/cinematic-image-direction.md",
+      "sha256": "80e69ebc39a16f3ad0fa1a45465b7c4486daacbdb1c168377c069411db2bf02e",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/horror-design/references/cinematic-image-direction.md"
+    },
+    {
+      "path": "skills/horror-design/references/genre-presets.md",
+      "sha256": "5a0f0f53f8e3a43208523d08e37fa184852d69b55fd278106d861e33a8342736",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/horror-design/references/genre-presets.md"
+    },
+    {
+      "path": "skills/noir-design/SKILL.md",
+      "sha256": "b10e3dac7965830cc5382f97ed9754f042a109f940b9cb3f8b6dfb016827fb8c",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/noir-design/SKILL.md"
+    },
+    {
+      "path": "skills/noir-design/agents/openai.yaml",
+      "sha256": "e9d7a240f84863e0473c85003d7b7cfd82904c05bc7984b438296ade98ad3ecf",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/noir-design/agents/openai.yaml"
+    },
+    {
+      "path": "skills/noir-design/references/COMMON-12-SECTION-PROTOCOL.md",
+      "sha256": "8e1f7f9f67a790cde87d951a9251d7d704297c4bb2035b0ed724d69efc95c04b",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/noir-design/references/COMMON-12-SECTION-PROTOCOL.md"
+    },
+    {
+      "path": "skills/noir-design/references/NEGATIVE-CASE-BOOK.md",
+      "sha256": "ea9819faae63dcb6aff5ae083c2d467a800834816ea7e00ac9b92e2e2d244b61",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/noir-design/references/NEGATIVE-CASE-BOOK.md"
+    },
+    {
+      "path": "skills/noir-design/references/SOURCE-LEDGER.md",
+      "sha256": "91a6dffc36ffb892116d1b71ee2cd9d8e4a475ab3521e929615876edfa4d23aa",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/noir-design/references/SOURCE-LEDGER.md"
+    },
+    {
+      "path": "skills/noir-design/references/cinematic-image-direction.md",
+      "sha256": "80e69ebc39a16f3ad0fa1a45465b7c4486daacbdb1c168377c069411db2bf02e",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/noir-design/references/cinematic-image-direction.md"
+    },
+    {
+      "path": "skills/noir-design/references/genre-presets.md",
+      "sha256": "c656919e071373102824ebfba627e57947a0193fef32dbeb96d4a67ccbf78db0",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/noir-design/references/genre-presets.md"
+    },
+    {
+      "path": "skills/produce-ai-video/SKILL.md",
+      "sha256": "a77badae3557c45ee9e25972ef0fe37dbb4ee759351184c80c67febe98793d0c",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/produce-ai-video/SKILL.md"
+    },
+    {
+      "path": "skills/produce-ai-video/agents/openai.yaml",
+      "sha256": "fda92e1f0ed9bebdd876e2c01139f836d94bcb83538aec71ad3f8fde0d28a1de",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/produce-ai-video/agents/openai.yaml"
+    },
+    {
+      "path": "skills/produce-ai-video/references/autonomous-production-workflow.md",
+      "sha256": "026c0d89981cfd79ac15424cda36762f722ff5c65a17e04d56a22a42dd756ad5",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/produce-ai-video/references/autonomous-production-workflow.md"
+    },
+    {
+      "path": "skills/produce-ai-video/references/qualified-video-acceptance.md",
+      "sha256": "e5ebb6c978ca3b0ce56a339de218dfeb2e627ae4302159b25449b01fbde1ae60",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/produce-ai-video/references/qualified-video-acceptance.md"
+    },
+    {
+      "path": "skills/produce-ai-video/references/storyboard-prompt-compiler.md",
+      "sha256": "3b8d6a76df9b22b27a3e60cba5a0f872d5878c0d9012edcf68b5a045dfc156bf",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/produce-ai-video/references/storyboard-prompt-compiler.md"
+    },
+    {
+      "path": "skills/prop-asset/SKILL.md",
+      "sha256": "86647c6045aa844ca64219dd581c54a0d646a4a9a1793b5ca04caf3c7c7c6b67",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/prop-asset/SKILL.md"
+    },
+    {
+      "path": "skills/prop-asset/agents/openai.yaml",
+      "sha256": "a007a9763e7bbcc88cf05e5a5b492d9ad5621ef582b90425ece906ce0ce12520",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/prop-asset/agents/openai.yaml"
+    },
+    {
+      "path": "skills/prop-asset/references/NEGATIVE-CASE-BOOK.md",
+      "sha256": "3f7fb8eb08e8e2e2b582daf6f9e1c013e32183103558d6d2c0afb6cf608c13d0",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/prop-asset/references/NEGATIVE-CASE-BOOK.md"
+    },
+    {
+      "path": "skills/prop-asset/references/cinematic-image-direction.md",
+      "sha256": "06a26c065e347fc6aa0b211547ba1ec8e8a857e300751f299802f94eb9149050",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/prop-asset/references/cinematic-image-direction.md"
+    },
+    {
+      "path": "skills/prop-asset/references/prop-design-and-reference.md",
+      "sha256": "ee8828c688fea733107026f44a637cf01f3745e380a08c8420e5eb88451926f9",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/prop-asset/references/prop-design-and-reference.md"
+    },
+    {
+      "path": "skills/romance-design/SKILL.md",
+      "sha256": "c4cb7f2f34c6e50eab33bb233d7babf7bb00d07005a6afd107bc407a41a1502d",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/romance-design/SKILL.md"
+    },
+    {
+      "path": "skills/romance-design/agents/openai.yaml",
+      "sha256": "681960574f09fa1fbc9dde4f9d271e2a2c0af909eb4d61eb16797c843786ca5e",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/romance-design/agents/openai.yaml"
+    },
+    {
+      "path": "skills/romance-design/references/COMMON-12-SECTION-PROTOCOL.md",
+      "sha256": "8e1f7f9f67a790cde87d951a9251d7d704297c4bb2035b0ed724d69efc95c04b",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/romance-design/references/COMMON-12-SECTION-PROTOCOL.md"
+    },
+    {
+      "path": "skills/romance-design/references/NEGATIVE-CASE-BOOK.md",
+      "sha256": "ea9819faae63dcb6aff5ae083c2d467a800834816ea7e00ac9b92e2e2d244b61",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/romance-design/references/NEGATIVE-CASE-BOOK.md"
+    },
+    {
+      "path": "skills/romance-design/references/SOURCE-LEDGER.md",
+      "sha256": "92cec944acd69654a2c545fd52e733659b0c0df0ef3c240a8d0a82e5bed2efec",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/romance-design/references/SOURCE-LEDGER.md"
+    },
+    {
+      "path": "skills/romance-design/references/cinematic-image-direction.md",
+      "sha256": "80e69ebc39a16f3ad0fa1a45465b7c4486daacbdb1c168377c069411db2bf02e",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/romance-design/references/cinematic-image-direction.md"
+    },
+    {
+      "path": "skills/romance-design/references/genre-presets.md",
+      "sha256": "88dadcd10fd6e3d85a3c406caa7827aebca477143d1d66baf2edb3380ef94151",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/romance-design/references/genre-presets.md"
+    },
+    {
+      "path": "skills/scene-asset/SKILL.md",
+      "sha256": "900902c53eb529fddab7275d76d037ee5fafad2832c9d56858e663e366424601",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/scene-asset/SKILL.md"
+    },
+    {
+      "path": "skills/scene-asset/agents/openai.yaml",
+      "sha256": "7ffb6718d97e5858e5070dbf6e1330a7118f817c372dcb43da6ebb2949c16084",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/scene-asset/agents/openai.yaml"
+    },
+    {
+      "path": "skills/scene-asset/references/NEGATIVE-CASE-BOOK.md",
+      "sha256": "69367fd44a93504facd05d3fd201515d70b74cc22e23d327326a751ba94c297c",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/scene-asset/references/NEGATIVE-CASE-BOOK.md"
+    },
+    {
+      "path": "skills/scene-asset/references/cinematic-image-direction.md",
+      "sha256": "7b5e59327ddf85ca1d685e70a7efdfde237fbef78b9c13a94c3f037268358d77",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/scene-asset/references/cinematic-image-direction.md"
+    },
+    {
+      "path": "skills/scene-asset/references/scene-multiview-design.md",
+      "sha256": "124e144c0ebaa818b7fd0181015b23c637f944a46472728a3ea8aeb37a77b1d9",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/scene-asset/references/scene-multiview-design.md"
+    },
+    {
+      "path": "skills/war-design/SKILL.md",
+      "sha256": "431acea961cd06c9ecaff4efc4d343655472b8ffe6a2f843fc2a9068f238979c",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/war-design/SKILL.md"
+    },
+    {
+      "path": "skills/war-design/agents/openai.yaml",
+      "sha256": "4447956f49edbb2f72986dc9ecfc795416be385148071d1f9c29d0c917ac8e79",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/war-design/agents/openai.yaml"
+    },
+    {
+      "path": "skills/war-design/references/COMMON-12-SECTION-PROTOCOL.md",
+      "sha256": "a10e10befb0053c10605cefb18641b67c334927c4428850ee7f60c5c1621258c",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/war-design/references/COMMON-12-SECTION-PROTOCOL.md"
+    },
+    {
+      "path": "skills/war-design/references/NEGATIVE-CASE-BOOK.md",
+      "sha256": "7b47f082fc7828c00ac75649a84f1251dced3478488e47adfd3af09afdbf992c",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/war-design/references/NEGATIVE-CASE-BOOK.md"
+    },
+    {
+      "path": "skills/war-design/references/SOURCE-LEDGER.md",
+      "sha256": "c1dc80b71dae1e7f41966bb7e739ccadd6120bd10e7e671c5b599226412807da",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/war-design/references/SOURCE-LEDGER.md"
+    },
+    {
+      "path": "skills/war-design/references/cinematic-image-direction.md",
+      "sha256": "80e69ebc39a16f3ad0fa1a45465b7c4486daacbdb1c168377c069411db2bf02e",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/war-design/references/cinematic-image-direction.md"
+    },
+    {
+      "path": "skills/war-design/references/combat-visual.md",
+      "sha256": "fc376342afdc938c851626e900f3aae309296671b6028a297610b52d0529e34d",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/war-design/references/combat-visual.md"
+    },
+    {
+      "path": "skills/war-design/references/sources.md",
+      "sha256": "419bb59ea83368f0fb731c585818852ed4a6b955fc85a6db51ad49db185b1c6e",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/war-design/references/sources.md"
+    },
+    {
+      "path": "skills/war-design/references/squad-cinematography.md",
+      "sha256": "0365733761ab1c51d193f40c633143c32917f20a7386017db5405a1c698a4e4e",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/war-design/references/squad-cinematography.md"
+    },
+    {
+      "path": "skills/war-design/references/story-visual.md",
+      "sha256": "1405c0153a571b313573f173bca6f75c100018855bb46c47a98f4af66370c0f4",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/war-design/references/story-visual.md"
+    },
+    {
+      "path": "skills/war-design/references/visual-design.md",
+      "sha256": "59a0227b2627a26b975c243e252ddc00ba572fa21a76b9e31461a90037e0e15d",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/war-design/references/visual-design.md"
+    },
+    {
+      "path": "skills/war-design/references/visual-review.md",
+      "sha256": "b39fd1fb269485696b418b74894bb4d0fad43d7b226776aaf16f8c4ed5d1c40d",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/war-design/references/visual-review.md"
+    },
+    {
+      "path": "skills/war-design/references/war-visual-presets.md",
+      "sha256": "44a8eb28f0bf6f61324870ec092067af1302dd0aefe62c651f6ee472b087c7ef",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/war-design/references/war-visual-presets.md"
+    },
+    {
+      "path": "skills/wuxia-design/SKILL.md",
+      "sha256": "8a94d21d5f404496e058d16e7f652348e4cf85615553339a54614451991bfc90",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/wuxia-design/SKILL.md"
+    },
+    {
+      "path": "skills/wuxia-design/agents/openai.yaml",
+      "sha256": "d7280c331cf1d708b85190a6808fae3c7e891475c749eeb2a7a43a0e2523608d",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/wuxia-design/agents/openai.yaml"
+    },
+    {
+      "path": "skills/wuxia-design/references/COMMON-12-SECTION-PROTOCOL.md",
+      "sha256": "8e1f7f9f67a790cde87d951a9251d7d704297c4bb2035b0ed724d69efc95c04b",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/wuxia-design/references/COMMON-12-SECTION-PROTOCOL.md"
+    },
+    {
+      "path": "skills/wuxia-design/references/NEGATIVE-CASE-BOOK.md",
+      "sha256": "ea9819faae63dcb6aff5ae083c2d467a800834816ea7e00ac9b92e2e2d244b61",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/wuxia-design/references/NEGATIVE-CASE-BOOK.md"
+    },
+    {
+      "path": "skills/wuxia-design/references/SOURCE-LEDGER.md",
+      "sha256": "423c3d51a844337bfcee180ab98b91363aa25507e8d36d34c4d28ccc706451c8",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/wuxia-design/references/SOURCE-LEDGER.md"
+    },
+    {
+      "path": "skills/wuxia-design/references/cinematic-image-direction.md",
+      "sha256": "80e69ebc39a16f3ad0fa1a45465b7c4486daacbdb1c168377c069411db2bf02e",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/wuxia-design/references/cinematic-image-direction.md"
+    },
+    {
+      "path": "skills/wuxia-design/references/genre-presets.md",
+      "sha256": "b57f0e623de53f0b88ac80854359d5c9f65ed2d34d636870e60f2c24dba91b5b",
+      "source": "https://github.com/62656456/ai-film-skills/blob/5fda5740853969c3dcb690b5b386dd1acc4c5f02/skills/wuxia-design/references/genre-presets.md"
+    }
+  ]
+}
